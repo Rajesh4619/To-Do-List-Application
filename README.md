@@ -14,3 +14,91 @@ To-Do List Application Instructions
 
 5. Quit:
    - Enter '5' to exit the application.
+
+
+
+output for my code
+
+
+Welcome to the to do list app :
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+There are no tasks currently.
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task : go to supermarket
+Task 'go to supermarket' added to the list.
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+Current Tasks:
+1. go to supermarket (Not Done)
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 3
+Current Tasks:
+1. go to supermarket (Not Done)
+Enter the task number to mark as completed 1
+Task 1 marked as completed.
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+Current Tasks:
+1. go to supermarket (Done)
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 4
+Current Tasks:
+1. go to supermarket (Done)
+Enter the task number to delete: 1
+Task 'go to supermarket' has been removed.
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+There are no tasks currently.
+Please select one of the following options
+------------------------------------------
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 5
+Goodbye
